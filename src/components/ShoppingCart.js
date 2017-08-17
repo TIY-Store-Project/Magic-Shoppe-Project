@@ -55,7 +55,7 @@ class ShoppingCart extends Component {
 					newItem.name = magicItem.name;
 					newItem.price = magicItem.price;
 					newItem.image = magicItem.image;
-					newItem.quantity = 3;
+					newItem.quantity = 1;
 					oldCart.push(newItem);
 
 					let cartCards =
